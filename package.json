@@ -8,6 +8,11 @@
   "keywords": ["password", "generation", "security", "utility"],
   "author": "",
   "license": "ISC",
-  "description": "A utility library for generating secure passwords"
+  "description": "A utility library for generating secure passwords",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RinVaris/generation-password.git"
+  }
 }
+
 
